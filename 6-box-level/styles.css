@@ -1,0 +1,164 @@
+header{
+    height: 100px;
+    border-style: solid;
+    border-width:3px;
+    width: 100%;
+    position:static;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    width:100%
+}
+
+.logo{
+    border-style: solid;
+    margin-left: 150px;
+    margin-top: 15px;
+    height: 50px;
+    width: 16%;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    position:static;
+}
+
+.headertext{
+    border-style: solid;
+    margin-bottom: 15px;
+    height: 25px;
+    width: 7%;
+    box-sizing: border-box;
+    display: inline-block;
+    position:static;
+}
+
+.headerorder{
+    border-style: solid;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom:10px;
+    height: 40px;
+    width: 10%;
+    box-sizing: border-box;
+    display: inline-block;
+    position:static;
+}
+
+.banner{
+    height: 475px;
+    border-style: solid;
+    border-width:3px;
+    width: 100%;
+    position:static;
+}
+
+.bannertext{
+    border-style: solid;
+    /*padding-left: 100px;
+    padding-top: 30px;*/
+    margin-left: 250px;
+    margin-top: 110px;
+    height: 65px;
+    width: 27%;
+    box-sizing: border-box;
+    position:static;
+}
+
+.bannerorder{
+    border-style: solid;
+    margin-left: 360px;
+    margin-top: 30px;
+    height: 65px;
+    width: 12%;
+    box-sizing: border-box;
+    position:static;
+}
+
+.options{
+    height: 325px;
+    border-style: solid;
+    border-width:3px;
+    width: 100%;
+    position:static;
+}
+
+.optionbox{
+    border-style: solid;
+    margin-left: 275px;
+    margin-top: 50px;
+    height: 200px;
+    width: 15%;
+    box-sizing: border-box;
+    display: inline-block;
+    position:static;
+}
+
+.promo{
+        height: 700px;
+        border-style: solid;
+        border-width:3px;
+        width: 100%;
+        position:static;
+}
+
+.promotext{
+    border-style: solid;
+    /*padding-left: 100px;
+    padding-top: 30px;*/
+    margin: auto;
+    margin-top: 75px;
+    height: 65px;
+    width: 20%;
+    box-sizing: border-box;
+    position:static;
+}
+
+.promobox{
+    border-style: solid;
+    margin-left: 200px;
+    margin-top: 30px;
+    height: 400px;
+    width: 23%;
+    box-sizing: border-box;
+    display: inline-block;
+    position:static;
+}
+
+.line{
+    border-style: solid;
+    margin-left: 375px;
+    margin-top: 50px;
+    height: 1px;
+    width: 15%;
+    box-sizing: border-box;
+    position:static;
+}
+
+.subtext{
+    border-style: solid;
+    margin-left: 375px;
+    margin-top: 20px;
+    height: 65px;
+    width: 15%;
+    box-sizing: border-box;
+    display: inline-block;
+    position:static;
+}
+
+.footerbox{
+    border-style: solid;
+    margin: auto;
+    margin-top: 75px;
+    height: 300px;
+    width: 80%;
+    box-sizing: border-box;
+    position:static;
+}
+
+p{
+    text-align: center;
+}
